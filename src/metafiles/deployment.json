@@ -1,0 +1,8 @@
+{
+  "memory": "2G",
+  "instances": "1",
+  "environment": {
+    "SAMPLE_ENV":"SAMPLE-ENV"
+  },
+  "notes": "Type of the service: JAAS for Oracle Java Cloud Service, DBAAS for Oracle Database Cloud Service, MYSQLCS for MySQL Cloud Service, OEHCS for an Oracle Event Hub Cloud Service topic, OEHPCS for an Oracle Event Hub Cloud Service cluster, DHCS for Oracle Data Hub Cloud Service, or caching for a cache."
+}
