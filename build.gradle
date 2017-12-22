@@ -19,7 +19,7 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 
 group = 'com.shinyay.sample.springboot'
-//version = '0.0.1-SNAPSHOT'
+
 jar {
     baseName = 'kotlinboot'
 }
