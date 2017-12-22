@@ -6,9 +6,9 @@
   "command": "java -jar kotlinboot.jar",
   "startupTime": "30",
   "release": {
-    "build": "150520.1154",
-    "commit": "d8c2596364d9584050461",
-    "version": "15.1.0"
+    "build": "171222-1900",
+    "commit": "98a43e831ae915cafb5d342e75b3248278ba5a95",
+    "version": "1.0.0"
   },
   "notes": "notes related to release",
   "mode": "rolling"
